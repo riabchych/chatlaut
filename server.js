@@ -6,9 +6,6 @@
 //  Copyright 2012 Yevhenii Riabchych. All rights reserved.
 //
 
-/******************************************************************************
- * DEPENDANCIES
- *****************************************************************************/
 
 var sys = require("sys"), 
 	router = require('router'),
